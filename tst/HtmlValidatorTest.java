@@ -82,7 +82,7 @@ public class HtmlValidatorTest {
      */
 	@Test
 	public void test1(){
-
+        Assert.fail("Add your test!");
 	}
 
     /**
@@ -92,7 +92,7 @@ public class HtmlValidatorTest {
      */
 	@Test
 	public void test2(){
-
+        Assert.fail("Add your test!");
 	}
 
 
@@ -103,7 +103,7 @@ public class HtmlValidatorTest {
      */
 	@Test
 	public void test3(){
-
+        Assert.fail("Add your test!");
 	}
 
 
@@ -114,7 +114,7 @@ public class HtmlValidatorTest {
      */
 	@Test
 	public void test4(){
-
+        Assert.fail("Add your test!");
 	}
 
     /**
@@ -124,7 +124,7 @@ public class HtmlValidatorTest {
      */
 	@Test
 	public void test5(){
-
+        Assert.fail("Add your test!");
 	}
 
     /**
@@ -134,7 +134,7 @@ public class HtmlValidatorTest {
      */
 	@Test
 	public void test6(){
-
+        Assert.fail("Add your test!");
 	}
 
     /**
@@ -144,7 +144,7 @@ public class HtmlValidatorTest {
      */
 	@Test
 	public void test7(){
-
+        Assert.fail("Add your test!");
 	}
 
     /**
@@ -154,7 +154,7 @@ public class HtmlValidatorTest {
      */
 	@Test
 	public void test8(){
-
+        Assert.fail("Add your test!");
 	}
 
 	/**
@@ -162,36 +162,10 @@ public class HtmlValidatorTest {
 	 * Add your own comment here:
 	 */
 	@Test
-	public void myRemoveAllTest1(){
-
+	public void myRemoveAllTest(){
+        Assert.fail("Add your test!");
 	}
 
-	/**
-	 * Add your own test to test your removeAll method
-	 * Add your own comment here:
-	 */
-	@Test
-	public void myRemoveAllTest2(){
-
-	}
-
-	/**
-	 * Add your own test to test your removeAll method
-	 * Add your own comment here:
-	 */
-	@Test
-	public void myRemoveAllTest3(){
-
-	}
-
-    /**
-     * Add your own test to test your removeAll method
-     * Add your own comment here:
-     */
-    @Test
-    public void myRemoveAllTest4(){
-
-    }
 
     //FEEL FREE TO ADD MORE TESTS HERE
 }
